@@ -2,8 +2,9 @@
 
 its just cat but gleam.
 
-buffers IO cuz i aint no bitch.
-crashes on non-utf8 characters because it's not a bug it's a feature.
+buffers IO cuz mama didn't raise no bitch.
+
+also crashes on non-utf8 characters because it's not a bug it's a feature (is it even possible)
 
 ## Running
 
